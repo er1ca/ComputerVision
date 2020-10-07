@@ -3,12 +3,12 @@
 
 ## AR Cube
 
-![](src/1.PNG)
+![](src/1.png)
 
 
 ## Triangulation
 
-![](src/2.PNG)
+![](src/2.png)
 
 
 ### Install dependencies
@@ -19,7 +19,7 @@
 ![](src/1.mp4)
 
 #### Triangulation
-![](src/2.mp4)
+![](src/2.avi)
 
 
 ## Reference
