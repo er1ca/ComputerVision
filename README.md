@@ -16,10 +16,10 @@
 ### Result 
 
 #### AR Cube 
-![](src/1.mp4)
+![](src/1.gif)
 
 #### Triangulation
-![](src/2.avi)
+![](src/2.gif)
 
 
 ## Reference
