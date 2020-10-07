@@ -13,7 +13,9 @@
 
 ## Preparation
 - USB Web cam 
-- 6x8 Checker board
+- 6x10 Checker board
+
+
 If you'd like to change checker board size, modify the size value at each code. 
 
 ## Install dependencies
