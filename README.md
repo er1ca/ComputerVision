@@ -16,7 +16,7 @@
 ### Result 
 
 #### AR Cube 
-![](src/1.gif)
+![](src/1-1.gif)
 
 #### Triangulation
 ![](src/2.gif)
